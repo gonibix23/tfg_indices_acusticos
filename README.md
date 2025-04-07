@@ -1,9 +1,9 @@
 # 🐦📊 Caracterización de Diversidad Acústica en Doñana
 
-**Trabajo de Fin de Grado - Grado en Matemática Computacional**  
-**Autor:** Gonzalo de Antonio Sierra  
-**Tutora:** Mar Angulo Martínez  
-**Co-Tutora:** Irene Mendoza Sagrera  
+**Trabajo de Fin de Grado - Grado en Matemática Computacional**
+**Autor:** Gonzalo de Antonio Sierra
+**Tutora:** Mar Angulo Martínez
+**Co-Tutora:** Irene Mendoza Sagrera
 **Convocatoria:** Ordinaria Abril 2025
 
 ---
@@ -26,8 +26,8 @@ A través del procesamiento de más de 300.000 audios recogidos mediante grabado
 
 ## 📂 Estructura del repositorio
 ```bash
-📁 csv/                                           # CSV con datos adicionales (pesa demasiado no puedo cargarlo)
-📁 db/                                            # Base de datos SQLite y audios procesados (pesa demasiado no puedo cargarlo)
+📁 csv/                                           # CSV con datos adicionales
+📁 db/                                            # Base de datos SQLite y audios procesados (comprimido a zip para poder subirlo)
 📁 metabase/                                      # Entorno de BI (pesa demasiado no puedo cargarlo)
 📁 notebooks/                                     # Notebooks en Python usados para análisis y visualización
 📁 plots/                                         # Figuras y visualizaciones generadas
@@ -51,13 +51,13 @@ A través del procesamiento de más de 300.000 audios recogidos mediante grabado
 
 ## 📈 Índices Acústicos Calculados
 
-- ACI – Acoustic Complexity Index  
-- ADI – Acoustic Diversity Index  
-- AEI – Acoustic Evenness Index  
-- BIO – Bioacoustic Index  
-- NDSI – Normalized Difference Soundscape Index  
-- H – Acoustic Entropy Index  
-- AR – Acoustic Richness Index  
+- ACI – Acoustic Complexity Index
+- ADI – Acoustic Diversity Index
+- AEI – Acoustic Evenness Index
+- BIO – Bioacoustic Index
+- NDSI – Normalized Difference Soundscape Index
+- H – Acoustic Entropy Index
+- AR – Acoustic Richness Index
 
 ---
 

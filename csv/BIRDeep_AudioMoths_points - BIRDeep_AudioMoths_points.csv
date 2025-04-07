@@ -1,0 +1,11 @@
+No.,Nombre Torre,Site,habitat,AM,lat,lon,Fecha_instalacion,Fecha_modificacion,nombre_alternativo,comments
+Site 1,Monteblanco_control,Control,matorral,AM1,"37,02","-6,55",03/02/2023,,Control,
+Site 2,Sabinar,Sabinar,matorral,AM2,"37,00","-6,51",03/02/2023,,corte,
+Site 3,Ojillo,Ojillo,matorral,AM3,"37,01","-6,51",03/02/2023,,,
+Site 4,Pozo S.Olalla,Pozo_Olalla,matorral,AM4,"36,98","-6,48",03/02/2023,,,
+Site 5,Laguna Sta Olalla,Laguna_Olalla,laguna,AM22/AM6,"36,98","-6,48",13/06/2024,,,antes era AM22
+Site 6,Torre_Palacio,Bolin,vera,AM8,"36,99","-6,44",03/02/2023,30/05/2023,Bolín,antes era AM6; Bolín
+Site 7,Pajarera_marisma,Pajarera,vera,AM10,"37,00","-6,44",03/02/2023,,Pajarera,
+Site 8,Caño Martinazo,Martinazo,vera,AM11,"37,03","-6,44",03/02/2023,,,
+Site 9,Cancela Milán,Millan,marisma,AM15,"37,05","-6,36",03/02/2023,,,
+Site 10,Juncabalejo,Jucabalejo,marisma,AM16,"36,94","-6,38",03/02/2023,,,

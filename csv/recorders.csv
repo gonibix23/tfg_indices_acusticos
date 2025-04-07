@@ -1,0 +1,12 @@
+recorder;name;zone;lat;lon;site
+AM1;Monteblanco;Matorral;37.02;-6.55;Control
+AM2;Sabinar;Matorral;37.00;-6.51;Sabinar
+AM3;Ojillo;Matorral;37.01;-6.51;Ojillo
+AM4;Pozo Santa Olalla;Matorral;36.98;-6.48;Pozo_Olalla
+AM8;Torre Palacio;Vera;36.99;-6.44;Bolin
+AM10;Pajarera;Vera;37.00;-6.44;Pajarera
+AM11;Caño Martinazo;Vera;37.03;-6.44;Martinazo
+AM15;Cancela Millán;Marisma;37.05;-6.36;Millan
+AM16;Juancabalejo;Marisma;36.94;-6.38;Jucabalejo
+AM22;Laguna de Santa Olalla;Laguna;36.98;-6.48;Laguna_Olalla
+AM6;Laguna de Santa Olalla;Laguna;36.98;-6.48;Laguna_Olalla
