@@ -35,7 +35,6 @@ A través del procesamiento de más de 300.000 audios recogidos mediante grabado
 📁 notebooks/                                     # Notebooks en Python usados para análisis y visualización
 📁 plots/                                         # Figuras y visualizaciones generadas
 📁 scripts/                                       # Scripts tanto de R como Python
-📄 TFG_MACO_Memoria_Gonzalo_de_Antonio.pdf        # Documento completo del TFG
 📄 README.md                                      # Este archivo
 ```
 
