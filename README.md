@@ -1,10 +1,10 @@
 # 🐦📊 Caracterización de Diversidad Acústica en Doñana
 
 **Trabajo de Fin de Grado - Grado en Matemática Computacional y Grado en Ingeniería de Software**  
-**Autor:** Gonzalo de Antonio Sierra  
-**Tutores:** Mar Angulo Martínez y Javier García Algarra
+**Autor:** Gonzalo de Antonio Sierra   
+**Tutores:** Mar Angulo Martínez y Javier García Algarra  
 **Co-Tutora:** Irene Mendoza Sagrera  
-**Convocatoria:** Ordinaria Abril 2025 y Extraordinaria Junio 2025
+**Convocatoria:** Ordinaria Abril 2025 y Extraordinaria Junio 2025  
 **Universidad:** Universidad de Tecnología y Arte Digital (U-tad)
 
 ---
