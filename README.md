@@ -1,10 +1,10 @@
 # 🐦📊 Caracterización de Diversidad Acústica en Doñana
 
-**Trabajo de Fin de Grado - Grado en Matemática Computacional**  
+**Trabajo de Fin de Grado - Grado en Matemática Computacional y Grado en Ingeniería de Software**  
 **Autor:** Gonzalo de Antonio Sierra  
-**Tutora:** Mar Angulo Martínez  
+**Tutores:** Mar Angulo Martínez y Javier García Algarra
 **Co-Tutora:** Irene Mendoza Sagrera  
-**Convocatoria:** Ordinaria Abril 2025  
+**Convocatoria:** Ordinaria Abril 2025 y Extraordinaria Junio 2025
 **Universidad:** Universidad de Tecnología y Arte Digital (U-tad)
 
 ---
@@ -19,6 +19,7 @@ A través del procesamiento de más de 300.000 audios recogidos mediante grabado
 
 ## 🎯 Objetivos
 
+- Monstar la infraestructura necesaria para los ecólogos.
 - Analizar la **variabilidad espacio-temporal** de índices acústicos (ACI, ADI, AEI, BIO, NDSI, H y AR).
 - Determinar si existe una **firma sonora distintiva** en cada hábitat (marisma, matorral, vera, laguna).
 - Contrastar los resultados acústicos con censos ornitológicos tradicionales.
