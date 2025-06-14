@@ -19,7 +19,8 @@ A través del procesamiento de más de 300.000 audios recogidos mediante grabado
 
 ## 🎯 Objetivos
 
-- Monstar la infraestructura necesaria para los ecólogos.
+- Montar la infraestructura necesaria para los ecólogos.
+- Desarrollar entorno para facilitar la visualización de los datos en Metabase
 - Analizar la **variabilidad espacio-temporal** de índices acústicos (ACI, ADI, AEI, BIO, NDSI, H y AR).
 - Determinar si existe una **firma sonora distintiva** en cada hábitat (marisma, matorral, vera, laguna).
 - Contrastar los resultados acústicos con censos ornitológicos tradicionales.
